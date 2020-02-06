@@ -1,4 +1,11 @@
+<<<<<<< Updated upstream
 	This is file s1 on branch SSD
 	Hello from SSD branch
-	This is change on SSD
+	Thi:wq!
+	s is change on SSD
+=======
+	This is file s1
+	This file is on master branch
+	these are changes on master branch
+>>>>>>> Stashed changes
 
